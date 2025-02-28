@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7756&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7756" /> </p>
 
-- 🌱 I’m currently learning **Java Swing**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **generalankit51@gmail.com**
 
